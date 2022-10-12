@@ -1,0 +1,2 @@
+/usr/bin/ar qc libExampleGoogleTest.a  CMakeFiles/ExampleGoogleTest.dir/Project/src/ExampleGoogleTest.cpp.o
+/usr/bin/ranlib libExampleGoogleTest.a
